@@ -27,3 +27,6 @@
 /spring/*.pid
 
 *.DS_Store
+
+# Ignore uploaded test images.
+/public/uploads
